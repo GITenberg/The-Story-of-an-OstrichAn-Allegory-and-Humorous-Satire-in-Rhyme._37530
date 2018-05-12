@@ -1,0 +1,35 @@
+_repo: The-Story-of-an-OstrichAn-Allegory-and-Humorous-Satire-in-Rhyme._37530
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nolcini, Edmund
+    gutenberg_agent_id: '38900'
+    url: http://www.gutenberg.org/2009/agents/38900
+covers:
+- cover_type: archival
+  image_path: 37530-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, I. J.
+    alias: Isaacs, Judd
+    gutenberg_agent_id: '38899'
+    url: http://www.gutenberg.org/2009/agents/38899
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2011-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37530'
+  lccn: tmp91001335
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Satire'
+- !lcsh 'Political satire'
+title: 'The Story of an Ostrich: An Allegory and Humorous Satire in Rhyme.'
+url: http://www.gutenberg.org/ebooks/37530
